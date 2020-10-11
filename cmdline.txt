@@ -1,0 +1,1 @@
+python weather_monitor_v1.py --display sh1106 --height 128 --rotate 2 --interface spi --gpio-data-command 9 --spi-device 1 --spi-cs-high True
